@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "HIMEHINA『レクイエム』Cover",
   "base_artist": "HIMEHINA",
-  "createdAt": "2026-02-06T21:02:26.529895Z",
+  "createdAt": "2026-03-18T07:48:05.162497Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "HIMEHINA Channel",
       "has_synced": false,
       "path": "select/pl_01_HIMEHINA『琥珀の身体』_HIMEHINA_Channel.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "HIMEHINA『レクイエム』Cover",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/localdb_01_HIMEHINA『レクイエム』Cover_HIMEHINA.txt",
+      "repo_name": "IwOFJzE1pGw"
     }
   ]
 }
